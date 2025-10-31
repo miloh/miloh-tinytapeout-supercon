@@ -19,4 +19,6 @@ Connect 8 segment display to the output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+5v psu
+one 8 pin dispwithc,
+one 8 segment led cell, 
