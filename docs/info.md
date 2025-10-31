@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The correct DIPSW sequence (coded, flip EOS) should create an 'A.' on a connected 8 segment display
 
 ## How to test
 
-Explain how to use your project
+Connect dipsw pins 1-8 to IO pins 0-7 
+Connect 8 segment display to the output
+
 
 ## External hardware
 
